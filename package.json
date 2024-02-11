@@ -1,6 +1,6 @@
 {
   "name": "hindi-dates",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get current date and time in हिंदी(hindi) format",
   "main": "index.js",
   "type": "module",
