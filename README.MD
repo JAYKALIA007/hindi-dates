@@ -1,4 +1,4 @@
-# Hindi Dates Package
+# hindi-dates
 
 This package provides a simple and convenient way to get the current date and time in Hindi using the Day.js library.
 
