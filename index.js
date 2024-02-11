@@ -12,7 +12,7 @@ function getCurrentYear(year) {
     const lastTwoDigits = year.slice(2)
     const hundredsDigit = year.charAt(1)
 
-    let resultYear = `${NUMBERS_TRANSLATION[year.charAt(0).padStart(2, '0')]} ${THOUSANDS_IN_HINDI}`;
+    let resultYear = `${NUMBERS_TRANSLATION[year.charAt(0).padStart(2, '0')]} ${THOUSANDS_IN_HINDI} `;
     
     if(hundredsDigit !== '0'){
         resultYear += `${NUMBERS_TRANSLATION[hundredsDigit.padStart(2, '0')]} ${HUNDREDS_IN_HINDI} `
