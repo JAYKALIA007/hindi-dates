@@ -1,0 +1,21 @@
+{
+  "name": "hindi-dates",
+  "version": "1.0.0",
+  "description": "Get date and time in hindi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "time",
+    "hindi",
+    "hindi-dates",
+    "hindi-time"
+  ],
+  "author": "Jay Kalia",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  }
+}
