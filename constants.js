@@ -77,5 +77,5 @@ export const NUMBERS_TRANSLATION = {
 
 export const THOUSANDS_IN_HINDI = 'हज़ार'
 export const HUNDREDS_IN_HINDI = 'सौ'
-export const HOUR_SEPERATOR_HINDI = 'बजकर'
+export const HOUR_SEPARATOR_HINDI = 'बजकर'
 export const MINUTES_IN_HINDI = 'मिनट'
